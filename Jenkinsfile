@@ -4,7 +4,7 @@ pipeline
 
     stages 
     {
-        stage('Build') 
+        stage('Build Application') 
         {
             steps 
             {
